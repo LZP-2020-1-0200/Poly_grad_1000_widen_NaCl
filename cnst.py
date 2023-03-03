@@ -61,7 +61,6 @@ EXPERIMENTS_TABLE = 'experiments'
 SPOTS_TABLE = 'spots'
 REF_SETS_TABLE = 'ref_sets'
 
-
 COL_MEMBER_FILE_NAME = 'member_file_name'
 COL_JPG_FILE_NAME = 'jpg_file_name'
 COL_SIF_FILE = 'sif_file'
